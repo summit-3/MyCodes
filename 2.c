@@ -21,7 +21,7 @@ int main()
 				houseNumber = i;
 			}
 		}
-		printf("%d", res);
+		printf("%d", houseNumber);
 		printf("\n");
 		t = t - 1;
 
