@@ -23,7 +23,7 @@ int main()
 		}
 		printf("%d", res);
 		printf("\n");
-		t -= 1;
+		t = t - 1;
 
 	}
 
